@@ -2,7 +2,7 @@
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
-![Uploading schema.png…]()
+<img width="736" alt="schema" src="https://user-images.githubusercontent.com/41492852/80520485-7ec19f80-8957-11ea-8a2b-8ae7d2c7d6da.png">
 
 
 ## Table
